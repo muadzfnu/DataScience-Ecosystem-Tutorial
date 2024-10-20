@@ -16,8 +16,6 @@ Exercise 2: Create markdown cell with title of the notebook
 Create a markdown cell with the title Data Science Tools and Ecosystem using H1 style heading.
 Take a screenshot of the markdown cell and name it as 2-title.png (Images can be saved with either the .jpg or .png extension.)
 
-![alt text](https://github.com/muadzfnu/DataScience-Ecosystem-Tutorial/2-title.png?raw=true))
-
 Exercise 3 - Create a markdown cell for an introduction
 Write an introductory sentence about the notebook such as the follows:
 In this notebook, Data Science Tools and Ecosystem are summarized.
