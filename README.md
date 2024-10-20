@@ -1,5 +1,5 @@
 Final Assignment Instructions: Create and Share Your Jupyter Notebook
-Estimated Time: 30 mins
+
 Objective
 
 In this final assignment, you will:
